@@ -1,0 +1,1 @@
+**Making a multithreading pipeline, responsible for extracting 50 variable from multiple devices at a time**
