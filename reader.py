@@ -4,6 +4,7 @@ from pymodbus.payload import BinaryPayloadDecoder
 from pymodbus.constants import Endian
 import time
 
+
 HOST = "10.1.249.2"
 PORT = 502
 SAMPLE_RATE = 5
